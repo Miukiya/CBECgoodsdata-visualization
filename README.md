@@ -1,11 +1,12 @@
 # CBECgoodsdata-visualization-front
 地方跨境电商通关商品数据可视化（毕设项目）
-|--config
-	|--dev.env.js				配置接口地址
-  |--index.js
-	|--prod.env.js
-|--node_modules				依赖库
-|--src
+目录结构
+|--config  
+	|--dev.env.js				配置接口地址  
+  |--index.js  
+	|--prod.env.js  
+|--node_modules				依赖库  
+|--src  
 	|--assets
 	|--components				封装Echarts图表组件
     	|--good					  单类商品图表组件
