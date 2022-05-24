@@ -1,6 +1,6 @@
 # CBECgoodsdata-visualization-front
-地方跨境电商通关商品数据可视化（毕设项目）
-目录结构
+地方跨境电商通关商品数据可视化（毕设项目）  
+目录结构  
 |--config  
 	|--dev.env.js				配置接口地址  
   |--index.js  
@@ -27,5 +27,5 @@
   |--App.vue					主组件，编写系统头栏与菜单  
   |--main.js					入口文件：引入依赖库、组件库，全局注册等  
 |--static						封装散点坐标，用于动态请求  
-	|--china_coordinate.json  	
+	|--china_coordinate.json    	
 	|--world_coordinate.json  
